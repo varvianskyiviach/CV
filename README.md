@@ -42,7 +42,7 @@ Established SSH connection to the droplet using GitHub.
 - <span style='color:lightskyblue'>Email:</span> vyacheslav.idz@gmail.com
 - <span style='color:lightskyblue'>Phone:</span> +380957550970
 - <span style='color:lightskyblue'>Telegram:</span> icemanf1
-- <span style='color:lightskyblue'>LinkedIn:</span> [viacheslav-varvianskyi](www.linkedin.com/in/viacheslav-varvianskyi)
+- <span style='color:lightskyblue'>LinkedIn:</span> [viacheslav-varvianskyi](https://www.linkedin.com/in/viacheslav-varvianskyi)
 - <span style='color:lightskyblue'>GitHub:</span> [varvianskyiviach](https://github.com/varvianskyiviach)
 
 ## <span style='color:gold'>LANGUAGES</span>
